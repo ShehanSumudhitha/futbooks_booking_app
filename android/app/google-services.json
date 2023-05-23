@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559318154308",
+    "project_id": "football-clone-app",
+    "storage_bucket": "football-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559318154308:android:2e0408ab330cf95e4e9011",
+        "android_client_info": {
+          "package_name": "shehan.football_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559318154308-ti9rrvc63fbgkdcll1j5hkucdisdvhl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAFZZjR_sikq6I4yCRRwGY32AjIM_tCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559318154308-ti9rrvc63fbgkdcll1j5hkucdisdvhl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
